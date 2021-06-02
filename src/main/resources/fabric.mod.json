@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "third_person",
+  "version": "1.4.38",
+
+  "name": "Third Person Datapack",
+  "description": "Loads the necessary function files for launching a world in the Third Person modpack",
+  "authors": [
+    "TheGreatCatAdorer"
+  ],
+  "contact": {
+    "homepage": "https://github.com/TheGreatCatAdorer",
+    "sources": "https://github.com/TheGreatCatAdorer"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/third_person/icon.png",
+
+  "environment": "*",
+
+  "depends": {
+    "minecraft": "1.16.x",
+    "carpet": ">=1.4.38"
+  }
+}
